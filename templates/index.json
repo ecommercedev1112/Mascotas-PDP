@@ -1,0 +1,459 @@
+{
+  "sections": {
+    "17167094004719c4d6": {
+      "type": "apps",
+      "blocks": {
+        "easy_content_builder_custom_html_Mz7ULE": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/custom-html\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "disabled": true,
+          "settings": {
+            "paragraph": "",
+            "html": "<div class=\"uk-slider-container-offset uk-slider uk-slider-container\" uk-slider=\"\" role=\"region\" ariaroledescription=\"carousel\">\n    <div class=\"uk-position-relative uk-visible-toggle\" tabindex=\"-1\">\n      <ul class=\"uk-slider-items uk-grid uk-grid-small\" aria-live=\"polite\" role=\"presentation\" id=\"uk-slider-0-items\" style=\"transform: translate3d(0px, 0px, 0px);\">\n        \n          <li class=\"uk-width-1-2 uk-width-1-2@s uk-active\" id=\"uk-slider-0-item-0\" role=\"tabpanel\" aria-label=\"1 of 2\" tabindex=\"-1\" aria-hidden=\"false\">\n            <div class=\"uk-card uk-card-small uk-card-small  uk-box-shadow-no uk-height-1-1\">\n              <div class=\"uk-card-media-top\">\n                <a class=\"\" href=\"\/products\/the-best-buddy-shirt\">\n                  <!-- BEGIN app snippet: items -->\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0847\/6950\/5602\/files\/MSCT-028.png?crop=right&amp;height=550&amp;v=1711802058&amp;width=600\" class=\"uk-align-center uk-margin-remove-vertical  \" alt=\"The Best Buddy Shirt\" width=\"600\" height=\"550\">\n\n\n<!-- END app snippet -->\n                <\/a>\n              <\/div>\n              <div class=\"uk-card-body uk-text-left \">\n                <a href=\"\/products\/the-best-buddy-shirt\" class=\"uk-link\">\n                  <h3 class=\"uk-margin-remove-bottom\">The Best Buddy Shirt<\/h3>\n                <\/a>\n\n                \n\n                  \n                    <!-- Start of Judge.me code -->\n                    <div class=\"jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup\" style=\"display: none;\">\n                      \n                    <div class=\"jdgm-prev-badge jdgm--js\" data-average-rating=\"0.00\" data-number-of-reviews=\"0\">\n  <span class=\"jdgm-prev-badge__stars\" data-score=\"0.00\"><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><\/span>\n  <span class=\"jdgm-prev-badge__text\">No reviews<\/span>\n<\/div>\n<\/div>\n                    <!-- End of Judge.me code -->\n                  \n\n                  <div>\n                    \n                      <span class=\"uk-text-normal price-item--regular\"> $249.00<\/span>\n                    \n                  <\/div>\n\n                  \n\n                  \n                  \n                \n              <\/div>\n            <\/div>\n          <\/li>\n        \n          <li class=\"uk-width-1-2 uk-width-1-2@s uk-active\" id=\"uk-slider-0-item-1\" role=\"tabpanel\" aria-label=\"2 of 2\" tabindex=\"-1\" aria-hidden=\"false\">\n            <div class=\"uk-card uk-card-small uk-card-small  uk-box-shadow-no uk-height-1-1\">\n              <div class=\"uk-card-media-top\">\n                <a class=\"\" href=\"\/products\/the-best-buddy-shirt-cambridge-blue\">\n                  <!-- BEGIN app snippet: items -->\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0847\/6950\/5602\/files\/MSCT-001_eac8cad1-5b84-42c2-81ed-1f5b3cbf199f.png?crop=right&amp;height=550&amp;v=1716300920&amp;width=600\" class=\"uk-align-center uk-margin-remove-vertical  \" alt=\"The Best Buddy Shirt (Cambridge blue)\" width=\"600\" height=\"550\" loading=\"lazy\">\n\n\n<!-- END app snippet -->\n                <\/a>\n              <\/div>\n              <div class=\"uk-card-body uk-text-left \">\n                <a href=\"\/products\/the-best-buddy-shirt-cambridge-blue\" class=\"uk-link\">\n                  <h3 class=\"uk-margin-remove-bottom\">The Best Buddy Shirt (Cambridge blue)<\/h3>\n                <\/a>\n\n                \n\n                  \n                    <!-- Start of Judge.me code -->\n                    <div class=\"jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup\" style=\"display: none;\">\n                      <div style=\"display:none\" class=\"jdgm-prev-badge\" data-average-rating=\"0.00\" data-number-of-reviews=\"0\" data-number-of-questions=\"0\"> <span class=\"jdgm-prev-badge__stars\" data-score=\"0.00\" tabindex=\"0\" aria-label=\"0.00 stars\" role=\"button\"> <span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span> <\/span> <span class=\"jdgm-prev-badge__text\">No reviews<\/span> <\/div>\n                    <\/div>\n                    <!-- End of Judge.me code -->\n                  \n\n                  <div>\n                    \n                      <span class=\"uk-text-normal price-item--regular\"> $249.00<\/span>\n                    \n                  <\/div>\n\n                  \n\n                  \n                  \n                \n              <\/div>\n            <\/div>\n          <\/li>\n        \n      <\/ul>\n<a class=\"uk-position-center-left uk-position-small uk-hidden-hover uk-visible@s uk-icon uk-slidenav-previous uk-slidenav uk-invisible\" href=\"#\" uk-slidenav-previous=\"\" uk-slider-item=\"previous\" role=\"button\" aria-controls=\"uk-slider-0-items\" aria-label=\"Previous slide\" hidden=\"\"><svg width=\"14\" height=\"24\" viewbox=\"0 0 14 24\"><polyline fill=\"none\" stroke=\"#000\" stroke-width=\"1.4\" points=\"12.775,1 1.225,12 12.775,23\"><\/polyline><\/svg><\/a>\n          <a class=\"uk-position-center-right uk-position-small uk-hidden-hover uk-visible@s uk-icon uk-slidenav-next uk-slidenav uk-invisible\" href=\"#\" uk-slidenav-next=\"\" uk-slider-item=\"next\" role=\"button\" aria-controls=\"uk-slider-0-items\" aria-label=\"Next slide\" hidden=\"\"><svg width=\"14\" height=\"24\" viewbox=\"0 0 14 24\"><polyline fill=\"none\" stroke=\"#000\" stroke-width=\"1.4\" points=\"1.225,23 12.775,12 1.225,1\"><\/polyline><\/svg><\/a>\n<\/div>\n<ul class=\"uk-slider-nav uk-dotnav uk-flex-center uk-margin\" role=\"tablist\" hidden=\"\">\n        \n          <li uk-slider-item=\"0\" role=\"presentation\" hidden=\"\" class=\"uk-active\"><a href=\"#\" role=\"tab\" aria-controls=\"uk-slider-0-item-0\" aria-label=\"Slide 1\" aria-selected=\"true\">…<\/a><\/li>\n        \n          <li uk-slider-item=\"1\" role=\"presentation\" hidden=\"\"><a href=\"#\" role=\"tab\" aria-controls=\"uk-slider-0-item-1\" aria-label=\"Slide 2\" aria-selected=\"false\" tabindex=\"-1\">…<\/a><\/li>\n        \n      <\/ul>\n<\/div>",
+            "custom_liquid": "",
+            "margin": "medium"
+          }
+        },
+        "easy_content_builder_section_title_E7rfAV": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/section-title\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "img_width": 200,
+            "img_height": 100,
+            "img_crop": "bottom",
+            "uk_text_align": "left",
+            "title": "Peruvian Pima for Pets",
+            "title_size": "h2",
+            "tagline": "",
+            "tagline_uk_size": "small",
+            "description": "<p>Mascotas elevates everyday dog wear with exquisitely crafted garments, prioritizing comfort and canine couture. We use only the finest, pet-safe materials – think 100% organic Peruvian Pima cotton luxurious cashmere, and breathable linens – to ensure your furry friend feels as fabulous as they look.<\/p>",
+            "description_uk_size": "default",
+            "btn_text": "Shop Now",
+            "btn_url": "",
+            "btn_uk_color": "secondary",
+            "btn_uk_size": "large",
+            "btn_target": "_self",
+            "border_rounded": false,
+            "bg_color": "",
+            "vertical_align": "top",
+            "max_width": "1200",
+            "scrollspy": "n",
+            "margin": "medium",
+            "padding": "default"
+          }
+        },
+        "easy_content_builder_featured_products_k7CmN6": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/featured-products\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "disabled": true,
+          "settings": {
+            "source": "manual",
+            "limit": 12,
+            "products": [
+              "best-buddy-shirt-dog-wear",
+              "best-buddy-teal-shirt-dog-wear"
+            ],
+            "collection": "lading-page-collection",
+            "collection_list": [
+              "landing-page-collection-2",
+              "lading-page-collection"
+            ],
+            "style": "slider",
+            "card_style": "small",
+            "card_size": "small",
+            "box_shadow": "no",
+            "border_rounded": false,
+            "multi_images": false,
+            "img_width": 600,
+            "img_height": 550,
+            "uk_text_align": "left",
+            "btn_add": "hide",
+            "show_desc": false,
+            "desc_len": 200,
+            "width_lg": "1-2",
+            "width_xs": "1-2",
+            "uk_gap": "small",
+            "autoplay": 0,
+            "show_arrows": "inside",
+            "show_nav": true,
+            "sets": false,
+            "scrollspy": "n",
+            "margin": "medium"
+          }
+        },
+        "easy_content_builder_section_settings_9iiFe4": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/section-settings\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "layout": "two",
+            "layout_mobile": "one",
+            "column_main": 50,
+            "column_gap": 30,
+            "row_gap": 0,
+            "pt": "",
+            "pb": "0",
+            "fullwidth": true,
+            "mw": "90%",
+            "mw_mobile": "",
+            "container_bg_color": "#f3f3f3",
+            "text_color": "",
+            "container_border_radius": 0,
+            "container_padding": "",
+            "bg_color": "",
+            "bg_image_size": "cover",
+            "bg_image_repeat": "no",
+            "bg_image_position": "top",
+            "bg_image_width": 100,
+            "bg_parallax": "",
+            "mask_color": "rgba(0,0,0,0)",
+            "mask_opacity": 0.5
+          }
+        },
+        "easy_content_builder_custom_html_YRWk4m": {
+          "type": "shopify:\/\/apps\/easy-content-builder\/blocks\/custom-html\/08c79414-ca28-4781-a647-2921b7943a0b",
+          "settings": {
+            "paragraph": "",
+            "html": "<div class=\"uk-slider-container-offset uk-slider uk-slider-container\" uk-slider=\"\" role=\"region\" ariaroledescription=\"carousel\">\n<h2 style=\"font-size:24px;\">The Aristopup Collection<\/h2>\n    <div class=\"uk-position-relative uk-visible-toggle\" tabindex=\"-1\">\n      <ul class=\"uk-slider-items uk-grid uk-grid-small\" aria-live=\"polite\" role=\"presentation\" id=\"uk-slider-0-items\" style=\"transform: translate3d(0px, 0px, 0px);\">\n        \n          <li class=\"uk-width-1-2 uk-width-1-2@s uk-active\" id=\"uk-slider-0-item-0\" role=\"tabpanel\" aria-label=\"1 of 2\" tabindex=\"-1\" aria-hidden=\"false\">\n            <div class=\"uk-card uk-card-small uk-card-small  uk-box-shadow-no uk-height-1-1\">\n              <div class=\"uk-card-media-top\">\n                <a class=\"\" href=\"\/products\/the-best-buddy-shirt\">\n                  <!-- BEGIN app snippet: items -->\n\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0847\/6950\/5602\/files\/MSCT-028.png?crop=right&amp;height=550&amp;v=1711802058&amp;width=600\" class=\"uk-align-center uk-margin-remove-vertical  \" alt=\"The Best Buddy Shirt\" width=\"600\" height=\"550\">\n\n\n<!-- END app snippet -->\n                <\/a>\n              <\/div>\n              <div class=\"uk-card-body uk-text-left \">\n                <a href=\"\/products\/the-best-buddy-shirt\" class=\"uk-link\">\n                  <h3 class=\"uk-margin-remove-bottom\">The Best Buddy Shirt<\/h3>\n                <\/a>\n\n                \n\n                  \n                    <!-- Start of Judge.me code -->\n                    <div class=\"jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup\" style=\"display: none;\">\n                      \n                    <div class=\"jdgm-prev-badge jdgm--js\" data-average-rating=\"0.00\" data-number-of-reviews=\"0\">\n  <span class=\"jdgm-prev-badge__stars\" data-score=\"0.00\"><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><\/span>\n  <span class=\"jdgm-prev-badge__text\">No reviews<\/span>\n<\/div>\n<\/div>\n                    <!-- End of Judge.me code -->\n                  \n\n                  <div>\n                    \n                      <span class=\"uk-text-normal price-item--regular\"> $249.00<\/span>\n                    \n                  <\/div>\n\n                  \n\n                  \n                  \n                \n              <\/div>\n            <\/div>\n          <\/li>\n        \n          <li class=\"uk-width-1-2 uk-width-1-2@s uk-active\" id=\"uk-slider-0-item-1\" role=\"tabpanel\" aria-label=\"2 of 2\" tabindex=\"-1\" aria-hidden=\"false\">\n            <div class=\"uk-card uk-card-small uk-card-small  uk-box-shadow-no uk-height-1-1\">\n              <div class=\"uk-card-media-top\">\n                <a class=\"\" href=\"\/products\/the-best-buddy-shirt-cambridge-blue\">\n                  <!-- BEGIN app snippet: items -->\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0847\/6950\/5602\/files\/MSCT-001_eac8cad1-5b84-42c2-81ed-1f5b3cbf199f.png?crop=right&amp;height=550&amp;v=1716300920&amp;width=600\" class=\"uk-align-center uk-margin-remove-vertical  \" alt=\"The Best Buddy Shirt (Cambridge blue)\" width=\"600\" height=\"550\" loading=\"lazy\">\n\n\n<!-- END app snippet -->\n                <\/a>\n              <\/div>\n              <div class=\"uk-card-body uk-text-left \">\n                <a href=\"\/products\/the-best-buddy-shirt-cambridge-blue\" class=\"uk-link\">\n                  <h3 class=\"uk-margin-remove-bottom\">The Best Buddy Shirt (Cambridge blue)<\/h3>\n                <\/a>\n\n                \n\n                  \n                    <!-- Start of Judge.me code -->\n                    <div class=\"jdgm-widget jdgm-preview-badge jdgm-preview-badge--with-link jdgm--done-setup\" style=\"display: none;\">\n                      <div style=\"display:none\" class=\"jdgm-prev-badge\" data-average-rating=\"0.00\" data-number-of-reviews=\"0\" data-number-of-questions=\"0\"> <span class=\"jdgm-prev-badge__stars\" data-score=\"0.00\" tabindex=\"0\" aria-label=\"0.00 stars\" role=\"button\"> <span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span><span class=\"jdgm-star jdgm--off\"><\/span> <\/span> <span class=\"jdgm-prev-badge__text\">No reviews<\/span> <\/div>\n                    <\/div>\n                    <!-- End of Judge.me code -->\n                  \n\n                  <div>\n                    \n                      <span class=\"uk-text-normal price-item--regular\"> $249.00<\/span>\n                    \n                  <\/div>\n            \n              <\/div>\n            <\/div>\n          <\/li>\n        \n      <\/ul>\n<a class=\"uk-position-center-left uk-position-small uk-hidden-hover uk-visible@s uk-icon uk-slidenav-previous uk-slidenav uk-invisible\" href=\"#\" uk-slidenav-previous=\"\" uk-slider-item=\"previous\" role=\"button\" aria-controls=\"uk-slider-0-items\" aria-label=\"Previous slide\" hidden=\"\"><svg width=\"14\" height=\"24\" viewbox=\"0 0 14 24\"><polyline fill=\"none\" stroke=\"#000\" stroke-width=\"1.4\" points=\"12.775,1 1.225,12 12.775,23\"><\/polyline><\/svg><\/a>\n          <a class=\"uk-position-center-right uk-position-small uk-hidden-hover uk-visible@s uk-icon uk-slidenav-next uk-slidenav uk-invisible\" href=\"#\" uk-slidenav-next=\"\" uk-slider-item=\"next\" role=\"button\" aria-controls=\"uk-slider-0-items\" aria-label=\"Next slide\" hidden=\"\"><svg width=\"14\" height=\"24\" viewbox=\"0 0 14 24\"><polyline fill=\"none\" stroke=\"#000\" stroke-width=\"1.4\" points=\"1.225,23 12.775,12 1.225,1\"><\/polyline><\/svg><\/a>\n<\/div>\n<ul class=\"uk-slider-nav uk-dotnav uk-flex-center uk-margin\" role=\"tablist\" hidden=\"\">\n        \n          <li uk-slider-item=\"0\" role=\"presentation\" hidden=\"\" class=\"uk-active\"><a href=\"#\" role=\"tab\" aria-controls=\"uk-slider-0-item-0\" aria-label=\"Slide 1\" aria-selected=\"true\">…<\/a><\/li>\n        \n          <li uk-slider-item=\"1\" role=\"presentation\" hidden=\"\"><a href=\"#\" role=\"tab\" aria-controls=\"uk-slider-0-item-1\" aria-label=\"Slide 2\" aria-selected=\"false\" tabindex=\"-1\">…<\/a><\/li>\n        \n      <\/ul>\n<\/div>",
+            "custom_liquid": "",
+            "margin": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "easy_content_builder_custom_html_Mz7ULE",
+        "easy_content_builder_section_title_E7rfAV",
+        "easy_content_builder_featured_products_k7CmN6",
+        "easy_content_builder_section_settings_9iiFe4",
+        "easy_content_builder_custom_html_YRWk4m"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_banner_QDi9Fm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jXgTDY": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_MUwLHe": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_XyJct8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jXgTDY",
+        "text_MUwLHe",
+        "buttons_XyJct8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "section_image_text_hHNqXh": {
+      "type": "section-image-text",
+      "blocks": {
+        "column_XjBfTz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_health.gif",
+            "title": "Health and Well-being",
+            "content": "<p>We use only the finest, pet-safe materials: 100% organic Peruvian Pima cotton luxurious cashmere.<\/p>",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": true
+          }
+        },
+        "column_QCUJpX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_comfort.gif",
+            "title": "Comfort and Fit",
+            "content": "<p>We developed detailed size guides and sizing consultation service to ensure a perfect fit for various breeds and sizes.<\/p>",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": true
+          }
+        },
+        "column_XFwRic": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_luxary.gif",
+            "title": "Luxury and Exclusivity:",
+            "content": "<p>We use only the finest, pet-safe materials: 100% organic Peruvian Pima cotton luxurious cashmere.<\/p>",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "column_XjBfTz",
+        "column_QCUJpX",
+        "column_XFwRic"
+      ],
+      "settings": {
+        "title": "what we care about",
+        "padding_top": 80,
+        "padding_bottom": 50
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "blocks": {
+        "variant_picker_4VBjHC": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker_4VBjHC"
+      ],
+      "settings": {
+        "title": "The Woof Walk Wardrobe",
+        "subtitle": "collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-woof-walk-wardrobe",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "section_text_image_Y9gPjP": {
+      "type": "section-text-image",
+      "blocks": {
+        "text_p3pzVL": {
+          "type": "text",
+          "settings": {
+            "common_text_up": "Mascotas elevates everyday dog wear with exquisitely crafted garments, prioritizing comfort and canine couture.We use only the finest, pet-safe materials – think",
+            "italic_text": "100% organic Peruvian Pima cotton, luxurious cashmere, and breathable linens -",
+            "common_text_back": "to ensure your furry friend feels as fabulous as they look."
+          }
+        },
+        "text_3tABQ6": {
+          "type": "text",
+          "settings": {
+            "common_text_up": "However, Mascotas isn't just about aesthetics.",
+            "italic_text": "Our meticulous design ensures a perfect fit, allowing unrestricted movement and joyful exploration.",
+            "common_text_back": "Whether a cozy cable-knit sweater for chilly days or a pawsome poolside bandana, every piece is thoughtfully made to complement your dog's unique personality."
+          }
+        }
+      },
+      "block_order": [
+        "text_p3pzVL",
+        "text_3tABQ6"
+      ],
+      "settings": {
+        "title": "Our story",
+        "image": "shopify:\/\/shop_images\/dog_short.gif",
+        "padding_top": 75,
+        "padding_bottom": 100
+      }
+    },
+    "section_image_collection_FyEgLT": {
+      "type": "section-image-collection",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_8.png",
+        "collection": "winter",
+        "title": "Trending now",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "section_customer_solution_GkTqwh": {
+      "type": "section-customer-solution",
+      "blocks": {
+        "text_8qAXRW": {
+          "type": "text",
+          "settings": {
+            "title": "More Than Just Clothing:",
+            "text": "Our pet apparel is a reflection of your unique fashion sense."
+          }
+        },
+        "text_fqtcJV": {
+          "type": "text",
+          "settings": {
+            "title": "Luxurious Materials:",
+            "text": "We use high-quality Pima cotton to ensure our garments are soft and comfortable for your furry companion."
+          }
+        },
+        "text_P9Lpx9": {
+          "type": "text",
+          "settings": {
+            "title": "Variety of Products:",
+            "text": "Choose from a selection of sleek coats and adorable sweaters, each designed to suit your pet’s style."
+          }
+        },
+        "text_JbWfBf": {
+          "type": "text",
+          "settings": {
+            "title": "High Standards:",
+            "text": "We maintain the highest standards of quality and style in every piece we create."
+          }
+        },
+        "text_hggyYk": {
+          "type": "text",
+          "settings": {
+            "title": "Fashion Experience:",
+            "text": "With us, you’re not just buying clothes; you’re investing in a fashion experience that deepens the bond between you and your pet."
+          }
+        }
+      },
+      "block_order": [
+        "text_8qAXRW",
+        "text_fqtcJV",
+        "text_P9Lpx9",
+        "text_JbWfBf",
+        "text_hggyYk"
+      ],
+      "settings": {
+        "title": "Your worries, our solution",
+        "image": "shopify:\/\/shop_images\/Ellipse_1.png",
+        "customer_name": "Monica Michaelson",
+        "customer_detail": "<p>28-year-old marketing manager at a fashion company in the United States<\/p>",
+        "description": "<p>My little Milo isn't just a pet; he's family. Ensuring his happiness and well-being is a top priority for me. I'll go above and beyond to make sure he's pampered and loved just like any other family member.<\/p>",
+        "logo_image": "shopify:\/\/shop_images\/image_1.png",
+        "padding_top": 80,
+        "padding_bottom": 40
+      }
+    },
+    "section_video_axD6WV": {
+      "type": "section-video",
+      "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2018\/8867\/files\/ice.mp4",
+        "cover_image": "shopify:\/\/shop_images\/Video.png"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse Our Latest Products",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/close-up-man-with-smiley-dog.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "newsletter_DL7ce9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_cegbyR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be the first to know about new collections and exclusive offers.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_9PUgXp": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to our emails<\/p>"
+          }
+        },
+        "email_form_6LMtam": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_cegbyR",
+        "paragraph_9PUgXp",
+        "email_form_6LMtam"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "17167094004719c4d6",
+    "image_banner_QDi9Fm",
+    "section_image_text_hHNqXh",
+    "featured_collection",
+    "section_text_image_Y9gPjP",
+    "section_image_collection_FyEgLT",
+    "section_customer_solution_GkTqwh",
+    "section_video_axD6WV",
+    "image_banner",
+    "newsletter_DL7ce9"
+  ]
+}
