@@ -1961,6 +1961,14 @@
         "title": {
           "name": "Title"
         },
+        "text_describe": {
+          "name": "Text describe",
+          "settings": {
+            "text_describe": {
+              "label": "Text describe"
+            }
+          }
+        },
         "price": {
           "name": "Price"
         },
@@ -2315,6 +2323,9 @@
               "label": "Third heading"
             }
           }
+        },
+        "modify_text": {
+          "name": "Modify text"
         }
       },
       "settings": {

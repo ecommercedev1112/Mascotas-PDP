@@ -1,7 +1,7 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/LOGO_WITHOUT_ICON_523792a7-610f-4311-8e53-20cb69daa478.png",
-    "logo_width": 210,
+    "logo_width": 340,
     "favicon": "shopify:\/\/shop_images\/MAIN_LOGO.png",
     "type_header_font": "cormorant_n3",
     "heading_scale": 100,
@@ -104,10 +104,10 @@
     "social_facebook_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/mascotasofficial\/",
     "social_youtube_link": "",
+    "social_pinterest_link": "https:\/\/in.pinterest.com\/mascotasofficial\/",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/mascotasofficial",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/in.pinterest.com\/mascotasofficial\/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -154,7 +154,7 @@
             "type": "color",
             "settings": {
               "title": "Lilac",
-              "color": "#fdeaee"
+              "color": "#a47dab"
             }
           },
           "color_dqqHrR": {
@@ -175,21 +175,21 @@
             "type": "color",
             "settings": {
               "title": "Beige",
-              "color": "#dbeefc"
+              "color": "#ede8d0"
             }
           },
           "color_jtiGfr": {
             "type": "color",
             "settings": {
               "title": "Light Blue",
-              "color": "#afdbfc"
+              "color": "#90d5ff"
             }
           },
           "color_ic6PQw": {
             "type": "color",
             "settings": {
               "title": "Ivory",
-              "color": "#e3f0fa"
+              "color": "#ffffe3"
             }
           },
           "color_KPEpEU": {
@@ -205,6 +205,27 @@
               "title": "Blue",
               "color": "#0e6fdf"
             }
+          },
+          "color_pPLJGf": {
+            "type": "color",
+            "settings": {
+              "title": "Red",
+              "color": "#fd4c4d"
+            }
+          },
+          "color_bidFeN": {
+            "type": "color",
+            "settings": {
+              "title": "Lavender",
+              "color": "#d3d3ff"
+            }
+          },
+          "color_YPRwTE": {
+            "type": "color",
+            "settings": {
+              "title": "Nude",
+              "color": "#f7d9bc"
+            }
           }
         },
         "block_order": [
@@ -217,7 +238,10 @@
           "color_jtiGfr",
           "color_ic6PQw",
           "color_KPEpEU",
-          "color_fGGCEG"
+          "color_fGGCEG",
+          "color_pPLJGf",
+          "color_bidFeN",
+          "color_YPRwTE"
         ],
         "settings": {
         }
@@ -304,6 +328,17 @@
           "button": "#ffffff",
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-51abd208-5617-41d4-9a32-2251b38c5f8e": {
+        "settings": {
+          "background": "#e7eef4",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       }

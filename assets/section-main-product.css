@@ -22,13 +22,18 @@
     top: 3rem;
     z-index: 2;
   }
-
+  
+  media-gallery.product__column-sticky {
+    width: 75%;
+    margin: auto;
+  }
+  
   .product--thumbnail .thumbnail-list {
     padding-right: var(--media-shadow-horizontal-offset);
   }
 
   .product__info-wrapper {
-    padding: 0 0 0 5rem;
+    padding: 0 8rem 0 5.6rem;
   }
 
   .product__info-wrapper--extra-padding {
@@ -70,14 +75,14 @@
 
   .product--medium:not(.product--no-media) .product__media-wrapper,
   .product--small:not(.product--no-media) .product__info-wrapper {
-    max-width: 55%;
-    width: calc(55% - var(--grid-desktop-horizontal-spacing) / 2);
+    max-width: 50%;
+    width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
   .product--medium:not(.product--no-media) .product__info-wrapper,
   .product--small:not(.product--no-media) .product__media-wrapper {
-    max-width: 45%;
-    width: calc(45% - var(--grid-desktop-horizontal-spacing) / 2);
+    max-width: 50%;
+    width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 }
 
@@ -279,6 +284,13 @@ fieldset.product-form__input .form__label {
 
 .product-form__submit {
   margin-bottom: 1rem;
+  border: 1px solid #000;
+}
+
+.product-form__submit span {
+  text-transform: uppercase;
+  font-size: 16px;
+  color: #000;
 }
 
 .no-js .product-form__submit.button--secondary {
@@ -326,7 +338,10 @@ fieldset.product-form__input .form__label {
 }
 
 .product__text {
-  margin-bottom: 0;
+  padding-bottom: 3.2rem;
+  font-size: 12px;
+  line-height: 150%;
+  color: #7D8385;
 }
 
 a.product__text {
@@ -340,10 +355,9 @@ a.product__text {
 }
 
 .product__title {
-  word-break: break-word;
-  margin-bottom: 1.5rem;
-  padding-bottom: 15px;
-  margin-bottom:25px;
+  padding-bottom: 12px;
+  text-transform: uppercase;
+  margin: 0;
 }
 
 .product__title > * {
@@ -470,7 +484,8 @@ a.product__text {
 }
 
 .product-form__buttons {
-  max-width: 44rem;
+  width: 100%;
+  max-width: unset;
 }
 
 .product--no-media .product__info-container > modal-opener {
@@ -1054,7 +1069,9 @@ a.product__text {
   }
 
   .product--medium .thumbnail-list {
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2.4rem;
+    aspect-ratio: 4;
   }
 
   .product--large .thumbnail-list {
@@ -1121,7 +1138,7 @@ a.product__text {
   }
 
   .thumbnail-list.slider--tablet-up .thumbnail-list__item.slider__slide {
-    width: calc(20% - 0.8rem);
+    width: calc(25% - 0.8rem);
   }
 }
 
@@ -1599,4 +1616,83 @@ a.product__text {
   .recipient-form > input[type='checkbox']:checked + label .icon-checkmark {
     border: none;
   }
+}
+
+.product-page.page-width {
+  padding-left: 0;
+  padding-right: 0;
+}
+.product-price__wrapper {
+  margin: 0;
+  padding-bottom: 32px;
+}
+.product-price__wrapper .price__container {
+  margin: 0;
+}
+.product-price__wrapper .price__container .price-item {
+  font-size: 16px;
+  line-height: 150%;
+}
+.product-form__input input[type='radio'] + label.size_.size_EnableStock_,
+.product-form__input input[type='radio'] + label.color_EnableStock_ {
+  border-radius: unset;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+.product-form__input input[type='radio'] + label.color_EnableStock_{
+  border-radius: 50%;
+}
+.product__info-wrapper variant-radios {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  flex-direction: row-reverse;
+}
+.product__info-wrapper variant-radios .item_size_,
+.product__info-wrapper variant-radios .item_color_ {
+  display: flex;
+  flex-wrap: wrap;
+  flex: unset;
+  width: 50%;
+  max-width: 50%;
+  min-width: unset;
+  margin: 0;
+}
+.product__info-wrapper variant-radios .color-swatches__wrapper {
+  padding-top: 0;
+}
+.product__info-wrapper .product-form__quantity {
+  margin-top: 32px;
+}
+.product__info-wrapper .quantity__label {
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 12px;
+}
+.product__info-wrapper .text-describe__wrapper {
+  margin: 32px 0;
+}
+.text-describe__wrapper .text-describe__wrapper-title .title {
+  font-size: 18px;
+  line-height: 150%;
+  color: #000;
+}
+.text-describe__wrapper .text-describe__wrapper-title .value {
+  font-size: 16px;
+  color: #000;
+}
+.text-describe__wrapper .text-describe__wrapper-title {
+  margin-bottom: 32px;
+}
+.text-describe__wrapper .text-describe__wrapper-body {
+  color: #000;
+  line-height: 150%;
+}
+.product__info-wrapper .product__accordion {
+  margin-top: 0;
+  margin-bottom: 17px;
+  border: unset;
 }

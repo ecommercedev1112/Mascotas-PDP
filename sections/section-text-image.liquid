@@ -14,8 +14,8 @@
 {{ 'section-text-image.css' | asset_url | stylesheet_tag }}
 <div class="section-text-image page-width">
     <div class="section-text-image__wrapper">
-        <div class="section-text-image">
-            <div class="section-text-image__image__wrapper">
+        <div class="section-text-image__image__wrapper">
+            <div class="section-text-image__container">
                 <div class="section-text-image__image">
                     {% if section.settings.image != blank %}
                         <img
@@ -25,9 +25,11 @@
                         height="{{ section.settings.image.height }}"
                         >                        
                     {% endif %}
+                    <div class="section-text-image">
+                    </div>        
                 </div>
             </div>
-        </div>        
+        </div>
         <div class="section-text-image__body">
             <div class="section-text-image__content">
                 {% if section.settings.title != blank %}
